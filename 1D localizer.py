@@ -4,7 +4,7 @@
 * e-mail: mohammadaltaleb@gmail.com
 * the localizer is responsible for localizing a robot in a world,
 * by doing sensing and moving operations and taking some measurements
-* this apprroach follows monte carlo localization
+* this apprroach is called monte carlo filter
 '''
 
 p = []			# probability distribution
