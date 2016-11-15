@@ -63,3 +63,5 @@ for i in range(len(motions)):
 for i in range(len(p)):
     p[i] = round(p[i], 2)
 print p
+
+print 'added'
